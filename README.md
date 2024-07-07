@@ -2,7 +2,7 @@
 
 ### Hi Hi, I'm Dina 👋 👩 💻
 
-I'm A business-oriented front-end Engineer with 5 years of experience in building many complex, responsive and SEO friendly web applications.
+I'm A business-oriented front-end Engineer with 8 years of experience in building many complex, responsive and SEO friendly web applications.
 
 Being a front-end Engineer, I mainly develop web applications that serve the business needs, in this position I learned how to build mobile-first SEO friendly website effectively solo or in a team, Improve legacy code, build component-based SPA, and design and develop new features and components following best software practices and designs.
 
