@@ -8,8 +8,6 @@ Being a front-end Engineer, I mainly develop web applications that serve the bus
 
 My main expertise is in HTML5, CSS3, SASS, Bootstrap, JavaScript, TypeScript, Jquery, Angular, Vue.Js, Python, Django, Postgres, Docker and git. Also, a lot of my projects as a Front end Developer involved working with remote APIs and integrating with many web services using REST.
 
-🔭 I’m currently a **Full Stack Developer in [Yaoota!](https://www.yaoota.com/) and [Shahry](https://shahry.app/).**
-
 🌱 I’m currently learning **Back End Path with Python**.
 
 👯 I’m looking to collaborate on **python open source projects**.
